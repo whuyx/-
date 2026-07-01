@@ -15,7 +15,6 @@
 ## 文件说明
 
 - `DDPM数学推导.pdf`：文章 PDF 版本
-- `ddpm_math_principles_detailed_latex.txt`：LaTeX 源文本，保存为 `.txt` 格式
 
 ## 说明
 
